@@ -1,6 +1,6 @@
 # Feel Physics Claude Code Marketplace
 
-Personal Claude Code plugin marketplace by [Feel Physics](https://github.com/feel-physics).
+Claude Code plugin marketplace by [Feel Physics](https://github.com/feel-physics).
 
 ## Plugins
 
@@ -13,4 +13,5 @@ Personal Claude Code plugin marketplace by [Feel Physics](https://github.com/fee
 
 ```
 /plugin marketplace add https://github.com/feel-physics/claude-code-marketplace.git
+/plugin install news@feel-physics
 ```
