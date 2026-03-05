@@ -1,0 +1,23 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "AI news tracking skills: check trusted AI voices' recent posts.",
+  "author": {
+    "name": "Feel Physics",
+    "url": "https://github.com/feel-physics"
+  },
+  "homepage": "https://github.com/feel-physics/claude-code-marketplace",
+  "repository": "https://github.com/feel-physics/claude-code-marketplace.git",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "news",
+    "trusted-voices",
+    "perplexity",
+    "claude",
+    "skills"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}

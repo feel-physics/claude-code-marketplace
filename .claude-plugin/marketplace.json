@@ -12,6 +12,11 @@
       "name": "obsidian",
       "source": "./plugins/obsidian",
       "description": "Obsidian-related skills: show dotfiles, and more"
+    },
+    {
+      "name": "news",
+      "source": "./plugins/news",
+      "description": "AI news tracking: check trusted AI voices' recent posts"
     }
   ]
 }

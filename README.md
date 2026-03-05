@@ -7,6 +7,7 @@ Personal Claude Code plugin marketplace by [Feel Physics](https://github.com/fee
 | Plugin | Description |
 |--------|-------------|
 | [obsidian](plugins/obsidian/) | Obsidian-related skills: show dotfiles, and more |
+| [news](plugins/news/) | AI news tracking: check trusted AI voices' recent posts |
 
 ## Install
 
