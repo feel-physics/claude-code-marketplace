@@ -1,5 +1,5 @@
 ---
-name: show-obsidian-dotfiles
+name: show-dotfiles
 description: Use when dotfiles or dotfolders like .claude are invisible in Obsidian file explorer, or when needing to browse/edit .claude skills and commands from within Obsidian.
 ---
 

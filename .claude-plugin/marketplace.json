@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "show-obsidian-dotfiles",
-      "source": "./plugins/show-obsidian-dotfiles",
-      "description": "Guide to show dotfiles/dotfolders (like .claude) in Obsidian file explorer"
+      "name": "obsidian",
+      "source": "./plugins/obsidian",
+      "description": "Obsidian-related skills: show dotfiles, and more"
     }
   ]
 }

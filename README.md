@@ -6,7 +6,7 @@ Personal Claude Code plugin marketplace by [Feel Physics](https://github.com/fee
 
 | Plugin | Description |
 |--------|-------------|
-| [show-obsidian-dotfiles](plugins/show-obsidian-dotfiles/) | Show dotfiles/dotfolders in Obsidian file explorer |
+| [obsidian](plugins/obsidian/) | Obsidian-related skills: show dotfiles, and more |
 
 ## Install
 
