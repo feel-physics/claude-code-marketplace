@@ -1,0 +1,23 @@
+{
+  "name": "show-obsidian-dotfiles",
+  "version": "1.0.0",
+  "description": "Guide to show dotfiles/dotfolders (like .claude) in Obsidian file explorer via BRAT + show-hidden-files plugin.",
+  "author": {
+    "name": "Feel Physics",
+    "url": "https://github.com/feel-physics"
+  },
+  "homepage": "https://github.com/feel-physics/claude-code-marketplace",
+  "repository": "https://github.com/feel-physics/claude-code-marketplace.git",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "dotfiles",
+    "hidden-files",
+    "claude",
+    "skills",
+    "BRAT"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
