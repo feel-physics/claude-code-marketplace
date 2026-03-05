@@ -1,0 +1,17 @@
+{
+  "name": "feel-marketplace",
+  "owner": {
+    "name": "Feel Physics"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins by Feel Physics",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "show-obsidian-dotfiles",
+      "source": "./plugins/show-obsidian-dotfiles",
+      "description": "Guide to show dotfiles/dotfolders (like .claude) in Obsidian file explorer"
+    }
+  ]
+}
