@@ -8,6 +8,7 @@ Rails開発を支援するClaude Codeスキル集。
 |-------|-------------|
 | [adding-undo-to-rails-crud](skills/adding-undo-to-rails-crud/) | Rails CRUDアプリにsnapshot方式のundoを追加する |
 | [verify-local-rails-runtime](skills/verify-local-rails-runtime/) | worktreeのRailsを起動し、Playwrightでログインまで実動確認する |
+| [kamal-rails-console](skills/kamal-rails-console/) | Kamal経由で本番Railsコンソールのデータ操作を実行する |
 
 ## Install
 

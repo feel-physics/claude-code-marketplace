@@ -8,7 +8,7 @@ Claude Code / Codex CLI plugin marketplace by [Feel Physics](https://github.com/
 |--------|-------------|--------|
 | [obsidian](plugins/obsidian/) | Obsidian-related skills | show-dotfiles |
 | [news](plugins/news/) | AI news tracking | check-ai-trusted-posts |
-| [rails](plugins/rails/) | Rails development helpers | adding-undo-to-rails-crud, verify-local-rails-runtime |
+| [rails](plugins/rails/) | Rails development helpers | adding-undo-to-rails-crud, verify-local-rails-runtime, kamal-rails-console |
 
 ## Install
 
