@@ -21,7 +21,7 @@ iframe方式。ゲームHTMLをiframe埋め込みするindex.htmlを生成。
 - 対象: `document.documentElement`
 - `requestFullscreen`→`webkitRequestFullscreen`順
 - `fullscreenchange`/`webkitfullscreenchange`でボタン制御
-- 非対応時: ひらがなで「ホーム画面に追加」案内
+- 非対応時: ひらがなで「ホームがめんについか」案内
 ## CSS
 - iframe: `100vw/100vh; border:none`
 - body: `margin:0; background:#000; overflow:hidden`
