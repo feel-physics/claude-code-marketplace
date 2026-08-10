@@ -25,6 +25,6 @@ Advisory dialogue skills for Claude Code / Codex CLI.
 | `*-tone` スキル | 主催キャラの口調 | 通常の丁寧な口調で進む |
 | `check-trusted-posts/lists/` | 相手候補の発信者リスト | AskUserQuestion で検索方法を選ばせる |
 | `find-trusted-voices` スキル | 発信者の探索 | 通常のWeb検索で代替 |
-| `advisers.yml` | 人物像の台帳（スキルフォルダ直下） | 台帳なしで進む。作りたければ新規作成してよい |
+| `advisers.yml` | 人物像の台帳（スキルフォルダ直下） | 台帳なしで進む。作りたければ `advisers.yml.example` をコピーして使う |
 
 `advisers.yml` は利用者個人のメモなので**このプラグインには同梱していません**。実在の人物を相手にするときは、本人が実際に述べたことと対話用の推測を混ぜないでください。
