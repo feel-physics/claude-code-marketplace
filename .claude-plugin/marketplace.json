@@ -17,6 +17,11 @@
       "name": "news",
       "source": "./plugins/news",
       "description": "AI news tracking: check trusted AI voices' recent posts"
+    },
+    {
+      "name": "advisory",
+      "source": "./plugins/advisory",
+      "description": "Advisory dialogue: think through a decision by staging a two-sided debate"
     }
   ]
 }

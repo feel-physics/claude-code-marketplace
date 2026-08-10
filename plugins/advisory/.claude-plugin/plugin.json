@@ -1,0 +1,23 @@
+{
+  "name": "advisory",
+  "version": "1.0.0",
+  "description": "Advisory dialogue skills: think through a decision by staging a two-sided debate.",
+  "author": {
+    "name": "Feel Physics",
+    "url": "https://github.com/feel-physics"
+  },
+  "homepage": "https://github.com/feel-physics/claude-code-marketplace",
+  "repository": "https://github.com/feel-physics/claude-code-marketplace.git",
+  "license": "MIT",
+  "keywords": [
+    "advisory",
+    "dialogue",
+    "decision-making",
+    "debate",
+    "claude",
+    "skills"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
